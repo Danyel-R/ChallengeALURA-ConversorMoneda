@@ -18,8 +18,8 @@ Esta aplicación permite a los usuarios convertir divisas entre las monedas más
 
 1. **Clonar el repositorio**:
     ```sh
-    git clone https://github.com/tu-usuario/conversor-de-divisas.git
-    cd conversor-de-divisas
+    git clone https://github.com/Danyel-R/ChallengeALURA-ConversorMoneda.git
+    cd conversormoneda
     ```
 
 2. **Agregar la biblioteca Gson**:
